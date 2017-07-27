@@ -46,6 +46,8 @@ Personal Goals
 1. EVERYDAY   dress for success homework
 2. Goal list
 3. why is coding important?
+4. local/Indy game and film companies list
+5. Linkdn account for buisness networking
 
  **Font size may be set using Facebook to determine age**
 ```
