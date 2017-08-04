@@ -1,0 +1,10 @@
+body{
+    margin:0 auto;
+    text-align:center;
+    font-size:65.2%;
+}
+header{
+    height:35rem;
+    width:100%;
+    background-color:black;
+}
